@@ -1,0 +1,110 @@
+{"data":[
+  {
+    "name": "English(US)",
+    "flagURL": "assets/flag/usa_flag.svg",
+    "language": "English",
+    "keys": "en_US"
+  },
+  {
+    "name": "Bengali",
+    "flagURL": "assets/flag/bd_flag.svg",
+    "language": "বাংলা",
+    "keys": "bn_BD"
+  },
+  {
+    "name": "Hindi",
+    "flagURL": "assets/flag/india_flag.svg",
+    "language": "नमस्ते दुनिया",
+    "keys": "hi_IN"
+  },
+  {
+    "name": "Urdu",
+    "flagURL": "assets/flag/pakistan_flag.svg",
+    "language": "ہیلو",
+    "keys": "pk_PK"
+  },
+  {
+    "name": "Chinese",
+    "flagURL": "assets/flag/chaina.svg",
+    "language": "你好，世界",
+    "keys": "zh_CN"
+  },
+  {
+    "name": "Arabic",
+    "flagURL": "assets/flag/arabic_flag.svg",
+    "language": "ہیلو",
+    "keys": "ar_AR"
+  },
+  {
+    "name": "Spanish",
+    "flagURL": "assets/flag/spain_flag.svg",
+    "language": "Hola Mundo",
+    "keys": "es_ES"
+  },
+  {
+    "name": "French",
+    "flagURL": "assets/flag/french_flag.svg",
+    "language": "Bonjour le monde",
+    "keys": "fr_FR"
+  },
+  {
+    "name": "Portuguese",
+    "flagURL": "assets/flag/portugal_flag.svg",
+    "language": "Olá Mundo",
+    "keys": "pt_PT"
+  },
+  {
+    "name": "Turkish",
+    "flagURL": "assets/flag/turkis_flag.svg",
+    "language": "Merhaba Dünya",
+    "keys": "tr_TR"
+  },
+  {
+    "name": "German",
+    "flagURL": "assets/flag/german_flag.svg",
+    "language": "Hallo Welt",
+    "keys": "de_DE"
+  },
+  {
+    "name": "Italian",
+    "flagURL": "assets/flag/italian_flag.svg",
+    "language": "Ciao mondo",
+    "keys": "it_IT"
+  },
+  {
+    "name": "Indonesian",
+    "flagURL": "assets/flag/indonesian_flag.svg",
+    "language": "Halo Dunia",
+    "keys": "id_ID"
+  },
+  {
+    "name": "Japanese",
+    "flagURL": "assets/flag/japan_flag.svg",
+    "language": "こんにちは世界",
+    "keys": "ja_JP"
+  },
+  {
+    "name": "Russian",
+    "flagURL": "assets/flag/russian_flag.svg",
+    "language": "Привет, мир",
+    "keys": "ru_RU"
+  },
+  {
+    "name": "Vietnamese",
+    "flagURL": "assets/flag/vietname_flag.svg",
+    "language": "Xin chào thế giới",
+    "keys": "vi_VN"
+  },
+  {
+    "name": "Korean",
+    "flagURL": "assets/flag/korean_flag.svg",
+    "language": "안녕하세요 세계",
+    "keys": "ko_KR"
+  },
+  {
+    "name": "Polish",
+    "flagURL": "assets/flag/polish_flag.svg",
+    "language": "Witaj świecie",
+    "keys": "pl_PL"
+  }
+]}

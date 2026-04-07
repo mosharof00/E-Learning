@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219480652359",
+    "project_id": "elearning-b6858",
+    "storage_bucket": "elearning-b6858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219480652359:android:f3da2642f4e8277b360f62",
+        "android_client_info": {
+          "package_name": "com.arcadexit.elearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXKaK9veT1i4f0kH8NvI8cpx019QzLFng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
